@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/limit/OneDrive/Desktop/Dan/4th trimestr/Advanced Prog/Assignment2/Person.h
+cstring
+-
+
+C:/Users/limit/OneDrive/Desktop/Dan/4th trimestr/Advanced Prog/Assignment2/main.cpp
+bits/stdc++.h
+-
+Person.h
+C:/Users/limit/OneDrive/Desktop/Dan/4th trimestr/Advanced Prog/Assignment2/Person.h
+
